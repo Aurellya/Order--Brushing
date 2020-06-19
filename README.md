@@ -12,4 +12,4 @@ Order brushing is a technique that may be employed by sellers to create fake ord
 - Then for each shop that is identified to have conducted order brushing, identify the buyers suspected to have conducted order brushing for that shop.
 
 ## Problem Statement
-More information about the problem is attached in 'problem' file
+More information about the problem is attached in 'problem' folder
